@@ -11,3 +11,5 @@ It uses openpyxl in full mode so ¯\_(ツ)_/¯
 -Due to the lack of ability of "write_only" mode in openpyxl, the cells are not 'perfect squares'. You should use macro to modify them instead.
 
 -Best Performance, your potato pc can run it smoothly with over 5000+ images
+
+-I did an example with Bad Apple MV: https://youtu.be/aKTGgZ32UuM
